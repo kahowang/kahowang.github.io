@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics | Academic</title>
+    <link>https://example.com/tag/robotics/</link>
+      <atom:link href="https://example.com/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Robotics</title>
+      <link>https://example.com/tag/robotics/</link>
+    </image>
+    
+    <item>
+      <title>Ollie ball balancing</title>
+      <link>https://example.com/project/external-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/external-project/</guid>
+      <description>&lt;div style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/9a8496c6-4977-4473-8049-dd4ed16493d7.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/e1202e18-0e66-4191-8d96-9fbbcaba356d.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/d44521c8-28da-4c5b-9275-188de6c1cc03.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/ae1bf9ef-c1e9-4917-97b6-28f8de4d36d2.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Robot&lt;/b&gt;:&lt;br&gt;
+Ollie is a wheel-legged robot developed by Tencent and another innovative exploration of Tencent Robotics X Robotics Lab after Jamoca and Max. It integrates a number of leading motion control technologies and makes key breakthroughs in motion planning, balance and stability, human-computer interaction and other fields.&lt;/p&gt;
+&lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;BackGround&lt;/b&gt;:&lt;br&gt;
+Tencent Robotics X Robotics Lab combines tactile sensors with Ollie, a wheel-legged robot, in an innovative way.With the support of the sense of touch and the stable movement ability, Ollie can also challenge the difficult tasks of balancing the head and carrying spherical objects. By making full use of the contact information between the sphere and the robot surface, combined with the data of its own attitude sensor and the joint motor encoder, Ollie realizes the perfect combination of the upper body object control ability and the lower body movement balance ability.&lt;/p&gt;
+&lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Main Tasks&lt;/b&gt;:&lt;br&gt;
+Based on the unique characteristics of the foot-wheel and linkage structure of the underactuated wheeled-legged robot, we fine-tuned the Whole-Body Control (WBC) algorithm to achieve the robot&amp;rsquo;s self-balancing and high-dynamic performance. Combined with feedback signals from our self-developed tactile sensors, we realized the robot&amp;rsquo;s ball-balancing and carrying capabilities.&lt;/p&gt;
+&lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Robot Simulation&lt;/b&gt;:&lt;br&gt;
+We utilized the Gazebo simulation platform to perform dynamic simulation of the robot, as well as to simulate feedback signals from tactile sensors.&lt;/p&gt;
+&lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Data Processing&lt;/b&gt;:&lt;br&gt;
+Apply Kalman filtering to process data from our self-developed tactile sensor, and return the results in the form of a ROS point cloud.&lt;/p&gt;
+&lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Some Videos:&lt;/b&gt;:&lt;/p&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;Ollie Ball Balancing&lt;/p&gt; &lt;/div&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=430339657&amp;bvid=BV1KG411V7Mv&amp;cid=827806337&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; width = 800 height = 500 &gt; &lt;/iframe&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;Ollie Ball First Show&lt;/p&gt; &lt;/div&gt;
+&lt;iframe src=&#34;//player.bilibili.com/player.html?aid=460892143&amp;bvid=BV1g5411M784&amp;cid=348289079&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; width = 800 height = 500  &gt; &lt;/iframe&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

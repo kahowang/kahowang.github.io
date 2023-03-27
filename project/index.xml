@@ -60,8 +60,8 @@ Tested on public datasets both indoors and outdoors. For indoor testing data, th
 &lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;  Our manual handle data record platform&lt;/b&gt;:&lt;br&gt;
 In order to quickly verify the algorithm , we built our owndata record platfor(handle &amp;amp; package). After many iterations, now out platform can compatibility a variety of lidar(Tested：Hesai32、Robosense32、Livox mid70&amp;hellip;), IMU(Tested: Xsens mti710、Lpms ig1) and camera(Hikvision、Intel D435i). We also carried out hardware synchronization and external parameter calibration on our equipment.&lt;/p&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/7b3e42c2-34f7-4658-8ede-286ccde3247d.gif&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/ecf035fc-c445-4adf-aff6-e835c182ee30.gif&#34; width=&#34;46%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E8%83%8C%E5%8C%85%E9%9B%B7%E8%BE%BE.gif&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E6%89%8B%E6%8C%81%E9%9B%B7%E8%BE%BE.gif&#34; width=&#34;46%&#34; style=&#34;display:inline-block&#34;&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;manual data record platform&lt;/p&gt; &lt;/div&gt;
 &lt;p&gt;
@@ -82,26 +82,26 @@ In order to quickly verify the algorithm , we built our owndata record platfor(h
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/68ddb333-e736-40d0-a71b-62c44d403e40.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E4%BC%A0%E6%84%9F%E5%99%A8%E7%A1%AC%E4%BB%B6%E5%90%8C%E6%AD%A5.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;pps hardware synchronization&lt;/p&gt; &lt;/div&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/7314a009-6921-40fa-adc9-3cb7b22066f2.png&#34; width=&#34;43%&#34; style=&#34;display:inline-block&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/dbbf91ee-01e7-48f5-ad59-b1cb67d9bc06.png&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E5%A4%96%E5%8F%82%E6%A0%87%E5%AE%9A1.png&#34; width=&#34;43%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E6%A0%87%E5%AE%9A%E7%BB%93%E6%9E%9C%E5%B1%95%E7%A4%BA.png&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;Automatic calibration of external parameters&lt;/p&gt; &lt;/div&gt;
 &lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Mapping&lt;/b&gt;:&lt;/p&gt;
 &lt;p&gt;Based on FASTLIO-SAM .Construct pointcloud map, area：1km&lt;/p&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/f4a95922-3575-44ea-9c51-bdb9dc6f2f7a.gif&#34; width=&#34;46%&#34; style=&#34;display:inline-block&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/92521cee-96b6-442b-9805-f38a6ed377a7.gif&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E7%82%B9%E4%BA%91%E5%9C%B0%E5%9B%BE2.gif&#34; width=&#34;46%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E7%82%B9%E4%BA%91%E5%9C%B0%E5%9B%BE1.gif&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Color Mapping&lt;/b&gt;:&lt;/p&gt;
 &lt;p&gt;RGB Pointcloud map is constructed through the external parameters of the camera and lidar&lt;/p&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/a81bdef4-3826-4f60-8d00-1ad74cf67e4c.gif&#34; width=&#34;46%&#34; style=&#34;display:inline-block&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/4810eba4-b168-4a61-9ae5-ff6fab4ceeab.gif&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/rbg%E4%B8%8A%E8%89%B2%E5%9B%BE2.gif&#34; width=&#34;46%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E4%B8%8A%E8%89%B2%E6%B7%B1%E5%A4%A7%E8%BD%A6%E9%81%93%E7%BA%BF.gif&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Semantic Map&lt;/b&gt;:&lt;/p&gt;
 &lt;p&gt;Semantic Pointcloud map is constructed through the external parameters of the camera and lidar&lt;/p&gt;
@@ -123,7 +123,7 @@ In order to quickly verify the algorithm , we built our owndata record platfor(h
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/a02bfffd-3462-4f17-9265-1782a4902cc8.gif&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/2d%E8%AF%AD%E4%B9%89.gif&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;Road semantic segmentation based on Mask2Former model&lt;/p&gt; &lt;/div&gt;
@@ -145,7 +145,7 @@ In order to quickly verify the algorithm , we built our owndata record platfor(h
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/a5f02b3b-b3a6-44c8-94f3-9e0092da5679.gif&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E8%AF%AD%E4%B9%89%E5%9C%B0%E5%9B%BE.gif&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;3D Semantic Map&lt;/p&gt; &lt;/div&gt;
@@ -168,7 +168,7 @@ In order to quickly verify the algorithm , we built our owndata record platfor(h
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/ff8e9a23-140e-4513-a5a3-1b269e85ff82.gif&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E6%8F%90%E5%8F%96%E8%B7%AF%E9%9D%A2%E8%AF%AD%E4%B9%89%E4%BF%A1%E6%81%AF.gif&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Lane vectorization&lt;/b&gt;:&lt;/p&gt;
@@ -190,7 +190,7 @@ In order to quickly verify the algorithm , we built our owndata record platfor(h
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/6c99c9b4-0bac-4806-85eb-203738b8116e.gif&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E8%BD%A6%E9%81%93%E7%BA%BF%E7%9F%A2%E9%87%8F%E5%8C%96.gif&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;
@@ -211,7 +211,7 @@ In order to quickly verify the algorithm , we built our owndata record platfor(h
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/e963c842-429e-4489-a986-11ae6a0ccdd6.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E8%BD%A6%E9%81%93%E7%BA%BF%E7%9F%A2%E9%87%8F%E5%8C%96%E8%93%9D%E8%89%B2.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
@@ -223,12 +223,12 @@ In order to quickly verify the algorithm , we built our owndata record platfor(h
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/external-project/</guid>
       <description>&lt;div style=&#34;text-align:center;&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/9a8496c6-4977-4473-8049-dd4ed16493d7.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/e1202e18-0e66-4191-8d96-9fbbcaba356d.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/ollie/%E6%9C%A8%E7%90%83.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/ollie/%E5%A4%9A%E7%90%83.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/d44521c8-28da-4c5b-9275-188de6c1cc03.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/ae1bf9ef-c1e9-4917-97b6-28f8de4d36d2.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/ollie/%E6%9C%A8%E7%90%83%E4%B8%8B%E5%8F%B0%E9%98%B6.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/ollie/%E6%9C%A8%E7%90%83%E8%BF%87%E5%9D%A1.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Robot&lt;/b&gt;:&lt;br&gt;
 Ollie is a wheel-legged robot developed by Tencent and another innovative exploration of Tencent Robotics X Robotics Lab after Jamoca and Max. It integrates a number of leading motion control technologies and makes key breakthroughs in motion planning, balance and stability, human-computer interaction and other fields.&lt;/p&gt;
@@ -270,7 +270,7 @@ Apply Kalman filtering to process data from our self-developed tactile sensor, a
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/3ad85564-f7db-4ec1-b10e-b109270903de.gif&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/relocalization/eskf.gif&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;ESKF Localization&lt;/p&gt; &lt;/div&gt;
@@ -296,17 +296,17 @@ Apply Kalman filtering to process data from our self-developed tactile sensor, a
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/160af853-2a83-4caf-94fe-3bae4a4e2279.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/relocalization/framework.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;ScanContext Fast ReLocalization Initialization Framework&lt;/p&gt; &lt;/div&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/01447a06-3a8a-4bff-ba83-58e020055e52.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
-  &lt;img src=&#34;https://alidocs.oss-cn-zhangjiakou.aliyuncs.com/res/av9kqDPpRZbNqVxe/img/e8467833-9499-4924-bbe4-524dd5bd02e7.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/relocalization/iter1.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/relocalization/iter2.gif&#34; width=&#34;45%&#34; style=&#34;display:inline-block&#34;&gt;
 &lt;/div&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;
 Use scancontext descriptor for 360 degree point cloud matching &lt;/p&gt; &lt;/div&gt;
-&lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Some Videos:&lt;/b&gt;:&lt;/p&gt;
+&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Some Videos:&lt;/b&gt;: 
 &lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;ESKF Localization&lt;/p&gt; &lt;/div&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=851260048&amp;bvid=BV1FL4y1s75L&amp;cid=500973981&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; width = 800 height = 500&gt; &lt;/iframe&gt;
 &lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;Relocalization Initialization base on ScanContext&lt;/p&gt; &lt;/div&gt;

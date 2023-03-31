@@ -90,6 +90,9 @@
     <loc>https://example.com/project/high/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/project/laege/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/project/external-project/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -103,6 +106,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/robotics/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/some-robots/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/slam/</loc>

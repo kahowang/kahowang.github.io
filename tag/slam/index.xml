@@ -103,6 +103,10 @@ In order to quickly verify the algorithm , we built our owndata record platfor(h
   &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/rbg%E4%B8%8A%E8%89%B2%E5%9B%BE2.gif&#34; width=&#34;46%&#34; style=&#34;display:inline-block&#34;&gt;
   &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E4%B8%8A%E8%89%B2%E6%B7%B1%E5%A4%A7%E8%BD%A6%E9%81%93%E7%BA%BF.gif&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
 &lt;/div&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/FASTLIO-COLOR.gif&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/FASTLIO-COLOR2.gif&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Semantic Map&lt;/b&gt;:&lt;/p&gt;
 &lt;p&gt;Semantic Pointcloud map is constructed through the external parameters of the camera and lidar&lt;/p&gt;
 &lt;p&gt;
@@ -218,7 +222,60 @@ In order to quickly verify the algorithm , we built our owndata record platfor(h
     </item>
     
     <item>
-      <title>Robot Fast Relocalization Initializationaaa</title>
+      <title>Large scale mapping</title>
+      <link>https://example.com/project/laege/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/laege/</guid>
+      <description>&lt;p&gt;&lt;b style=&#34;font-family: Arial, sans-serif;&#34;&gt;Large range (5km*5km) point cloud map construction, front-end method is FASTLIO2, back-end optimization using ISAM2&lt;/b&gt;:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/large_map/image76.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;before optimization&lt;/p&gt; &lt;/div&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/large_map/image8.png&#34; alt=&#34;img&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;after optimization&lt;/p&gt; &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robot Fast Relocalization Initialization</title>
       <link>https://example.com/project/localiazion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/localiazion/</guid>

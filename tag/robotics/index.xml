@@ -42,5 +42,52 @@ Apply Kalman filtering to process data from our self-developed tactile sensor, a
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=460892143&amp;bvid=BV1g5411M784&amp;cid=348289079&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; width = 800 height = 500  &gt; &lt;/iframe&gt;</description>
     </item>
     
+    <item>
+      <title>Robots Related to me</title>
+      <link>https://example.com/project/some-robots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/some-robots/</guid>
+      <description>&lt;div style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E8%83%8C%E5%8C%85%E9%9B%B7%E8%BE%BE.gif&#34; width=&#34;48%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/lane_vectorization%20/%E6%89%8B%E6%8C%81%E9%9B%B7%E8%BE%BE.gif&#34; width=&#34;46%&#34; style=&#34;display:inline-block&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;Manual Handle data record platform&lt;/p&gt; &lt;/div&gt;
+In order to quickly verify the algorithm , we built our owndata record platfor(handle &amp; package). After many iterations, now out platform can compatibility a variety of lidar(Tested：Hesai32、Robosense32、Livox mid70...), IMU(Tested: Xsens mti710、Lpms ig1) and camera(Hikvision、Intel D435i). We also carried out hardware synchronization and external parameter calibration on our equipment.
+&lt;div style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/some-robots/jackal.jpeg&#34; width=&#34;35%&#34; style=&#34;display:inline-block&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt; 3D slam platform for Wheeled robot&lt;/p&gt; &lt;/div&gt;
+It is composed of  Lidar, IMU, RTK, Encoder and Jackal chassis. It is applied to the fast slam algorithm verification.
+&lt;div style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/some-robots/ollie.GIF&#34; width=&#34;55%&#34; style=&#34;display:inline-block&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt; Wheeled Bipedal Robot Ollie&lt;/p&gt; &lt;/div&gt;
+Design by Tencent Robotics X，based on WBC and Nonlinear control.
+&lt;div style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/some-robots/robike.png&#34; width=&#34;55%&#34; style=&#34;display:inline-block&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt; Self-balancing bicycle robike&lt;/p&gt; &lt;/div&gt;
+Design by Tencent Robotics X，based on Gain Scheduling Controller.
+&lt;div style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/some-robots/%E6%AF%AB%E6%9C%AB.png&#34; width=&#34;55%&#34; style=&#34;display:inline-block&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;Haomo.ai HDeliver &#34;小魔驼&#34; &lt;/p&gt; &lt;/div&gt;
+Haomo.ai&#39;s HDeliver &#34;小魔驼&#34;， L4 driverless delivery vehicle.
+&lt;div style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/some-robots/%E5%93%A8%E5%85%B5.png&#34; width=&#34;40%&#34; style=&#34;display:inline-block&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/some-robots/%E8%8B%B1%E9%9B%84.png&#34; width=&#34;39%&#34; style=&#34;display:inline-block&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;RoboMaster &lt;/p&gt; &lt;/div&gt;
+From 2017 to 2019, as the captain of the IMCA Robotics Team at Wuyi University, I participated in robotics competitions and was mainly responsible for embedded development and intelligent recognition.
+&lt;div style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/some-robots/%E5%93%A8%E5%85%B5.gif&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;Automatic shooting robot &lt;/p&gt; &lt;/div&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;
+  &lt;img src=&#34;https://kaho-pic-1307106074.cos.ap-guangzhou.myqcloud.com/academic_website_pic/some-robots/%E5%B7%A5%E7%A8%8B%E8%BD%A6.gif&#34; width=&#34;50%&#34;&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align:center;&#34;&gt;   &lt;p&gt;Engineering grab robot &lt;/p&gt; &lt;/div&gt;</description>
+    </item>
+    
   </channel>
 </rss>

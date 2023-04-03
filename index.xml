@@ -116,7 +116,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-694158273&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-356812947&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -126,7 +126,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-694158273&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-356812947&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -690,7 +690,7 @@ Tested on public datasets both indoors and outdoors. For indoor testing data, th
     </item>
     
     <item>
-      <title>High precision map automation lane vectorization</title>
+      <title>High Precision map automation Lane Vectorization</title>
       <link>https://example.com/project/high/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/high/</guid>
